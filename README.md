@@ -4,13 +4,13 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 
 ## Course schedule
 
-| # | Check Point | Date | SubitInformation submission | Grade ratio | Checkout | Note |
-| - | ----------- | ---- | --------------------------- | ----------- | -------- | ---- |
-| 0 | Task selection | 11/17 | Task preference form | N/A | ✅ | N/A |
-| 1 | Presentation | 11/30 | <ul><li>Keynote.pdf</li><li>YouTube Clip (10-15min)</li></ul> | 7% | ❎ | N/A |
-| 2 | Review | 12/08 | <ul><li>Review </li><li>Scoring </li></ul> | 3% | ❎ | N/A |
-| 3 | Oral Presentation | 12/10, 12/17 | <ul><li>Oral (10 mins)</li><li>keynote.pdf </li></ul> | 5% | ❎ | N/A |
-| 4 |  Fianl Report + score ranking | 12/27 | <ul><li> Report.docx </li><li>Code Packet </li></ul> | 12% +3% | ❎ | N/A |
+| No. | Check Point | Date | SubitInformation submission | Grade ratio | Checkout | Note |
+| --- | ----------- | ---- | --------------------------- | ----------- | -------- | ---- |
+| CP0 | Task selection | 11/17 | Task preference form | N/A | ✅ | N/A |
+| CP1 | Presentation | 11/30 | <ul><li>Keynote.pdf</li><li>YouTube Clip (10-15min)</li></ul> | 7% | ❎ | N/A |
+| CP2 | Review | 12/08 | <ul><li>Review </li><li>Scoring </li></ul> | 3% | ❎ | N/A |
+| CP3 | Oral Presentation | 12/10 </br> 12/17 | <ul><li>Oral (10 mins)</li><li>keynote.pdf </li></ul> | 5% | ❎ | N/A |
+| CP4 |  Fianl Report + score ranking | 12/27 | <ul><li> Report.docx </li><li>Code Packet </li></ul> | 12% </br> 3% | ❎ | N/A |
 
 
 ## Team schedule / TODO List
@@ -24,9 +24,10 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 
 ## Refernce
 
-* Competition: [LLM -Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
-* Sample Code: [LLM Detect: Text Cluster [中文]](https://www.kaggle.com/code/finlay/llm-detect-text-cluster)
-
+- **Competition:** [LLM - Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
+- **Sample Code:** [LLM Detect: Text Cluster [中文]](https://www.kaggle.com/code/finlay/llm-detect-text-cluster)
+- **NLP Course GitHub:** [NTHU Natural Language Processing IKMLab](https://github.com/IKMLab/NTHU_Natural_Language_Processing)
+- **NTHU Course Recoder:** [NTHU Natural Language Processing](https://github.com/Yucheng0208/NTUT-CSIE-Master-Course/tree/main/113-1/NTHU-Natural-Language-Processing)
 ## Notice
 
 > [!NOTE]

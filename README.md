@@ -12,6 +12,7 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 | CP3 | Oral Presentation | 12/10 </br> 12/17 | <ul><li>Oral (10 mins)</li><li>keynote.pdf </li></ul> | 5% | ❎ | N/A |
 | CP4 |  Fianl Report + score ranking | 12/27 | <ul><li> Report.docx </li><li>Code Packet </li></ul> | 12% </br> 3% | ❎ | N/A |
 
+---
 
 ## Team schedule / TODO List
 
@@ -33,6 +34,8 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 
 > [!NOTE]
 > This is just a backup of course materials.
+
+---
 
 ## LICENSE
 

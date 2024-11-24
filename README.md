@@ -19,8 +19,9 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 - [ ] 2. 11/27 13:00 - 15:30 (Finish Keynote).
 > [!TIP]
 > If not done, add 11/28 morning
-- [ ] 3. 11/28 13:00 - 17:00 (Finish Video / YouTube Clip).
-- [ ] 4. Before 11/30 ( Upload Keynote.pdf & YouTube Clip ).
+- [ ] 3. 11/28 13:00 - 17:00 (Finish Video & YouTube Clip).
+- [ ] 4. Before 11/30 (Upload Keynote.pdf & YouTube Clip).
+
 
 ## Refernce
 

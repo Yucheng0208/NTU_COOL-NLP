@@ -24,8 +24,8 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 
 ## Refernce
 
-1. [LLM -Detect AI Generated Text (Competition)](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
-2. [LLM Detect: Text Cluster [中文] (Sample Code)](https://www.kaggle.com/code/finlay/llm-detect-text-cluster)
+* Competition: [LLM -Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
+* Sample Code: [LLM Detect: Text Cluster [中文]](https://www.kaggle.com/code/finlay/llm-detect-text-cluster)
 
 ## Notice
 

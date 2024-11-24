@@ -7,10 +7,10 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 | # | Check Point | Date | SubitInformation submission | Grade ratio | Note |
 | - | ----------- | ---- | --------------------------- | ----------- | ---- |
 | 0 | Task selection | 11/17 | Task preference form | N/A | N/A |
-| 1 | Presentation | 11/30 | <ul><li>Keynote.pdf</li><li>YouTube Clip (10-15min)</li></ul> | N/A | N/A |
-| 2 | Review | 12/08 | <ul><li>Review </li><li>Scoring </li></ul> | N/A | N/A |
-| 3 | Oral Presentation | 12/10, 12/17 | <ul><li>Oral (10 mins)</li><li>keynote.pdf </li></ul> | N/A | N/A |
-| 4 |  Fianl Report + score ranking | 12/27 | <ul><li> Report.docx </li><li>Code Packet </li></ul> | N/A | N/A |
+| 1 | Presentation | 11/30 | <ul><li>Keynote.pdf</li><li>YouTube Clip (10-15min)</li></ul> | 7% | N/A |
+| 2 | Review | 12/08 | <ul><li>Review </li><li>Scoring </li></ul> | 3% | N/A |
+| 3 | Oral Presentation | 12/10, 12/17 | <ul><li>Oral (10 mins)</li><li>keynote.pdf </li></ul> | 5% | N/A |
+| 4 |  Fianl Report + score ranking | 12/27 | <ul><li> Report.docx </li><li>Code Packet </li></ul> | 12% +3% | N/A |
 
 
 ## Team schedule / TODO List

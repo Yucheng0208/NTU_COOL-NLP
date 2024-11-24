@@ -4,7 +4,7 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 
 ## Course schedule
 
-| No. | Check Point | Date | SubitInformation submission | Grade ratio | Checkout | Note |
+| No. | Check Point | Date | SubitInformation submission | Grade ratio | Status | Note |
 | --- | ----------- | ---- | --------------------------- | ----------- | -------- | ---- |
 | CP0 | Task selection | 11/17 | Task preference form | N/A | ✅ | N/A |
 | CP1 | Presentation | 11/30 | <ul><li>Keynote.pdf</li><li>YouTube Clip (10-15min)</li></ul> | 7% | ❎ | N/A |

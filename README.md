@@ -30,12 +30,44 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 - **Sample Code:** [LLM Detect: Text Cluster [中文]](https://www.kaggle.com/code/finlay/llm-detect-text-cluster)
 - **NLP Course GitHub:** [NTHU Natural Language Processing IKMLab](https://github.com/IKMLab/NTHU_Natural_Language_Processing)
 - **NTHU Course Recoder:** [NTHU Natural Language Processing](https://github.com/Yucheng0208/NTUT-CSIE-Master-Course/tree/main/113-1/NTHU-Natural-Language-Processing)
+
+---
+
+## Platform
+
+### Environment
+
+#### Software Set-up
+| No. | Component | Specification |
+| --- | --------- | ------------- |
+| 1 | Running Environment | System: Windows 11 Pro, </br> CPU: Intel Core I9-12900K, </br> RAM: 16GB * 2 (32GB), </br> GPU NVIDIA RTX 3090 * 1 |
+| 2 | Visual Studio Code | Sep 2024 (Version 1.94) |
+| 3 |Environment Management | Conda 24.9.0 |
+| 4 | Python | 3.11.9 |
+
+
+#### Hardware Set-up
+| No. | Package Name | Version |
+| --- | ------------ | ------- |
+| 1 | Transformers |  4.46.2 |
+| 2 | Scikit-Learn | N/A |
+| 3 | Pandas | N/A |
+| 4 | Numpy | N/A |
+
+##### PyPi install command
+``` 
+!pip install sentence_transformers
+!pip install scikit-learn
+!pip install pandas
+!pip install numpy
+```
+
+---
+
 ## Notice
 
 > [!NOTE]
 > This is just a backup of course materials.
-
----
 
 ## LICENSE
 

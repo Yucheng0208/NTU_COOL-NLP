@@ -39,7 +39,7 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 
 ### Environment
 
-#### Software Set-up
+#### Hardware Set-up
 | No. | Component | Specification |
 | --- | --------- | ------------- |
 | 1 | Running Environment | System: Windows 11 Pro, </br> CPU: Intel Core I9-12900K, </br> RAM: 16GB * 2 (32GB), </br> GPU NVIDIA RTX 3090 * 1 |
@@ -48,7 +48,7 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 | 4 | Python | 3.11.9 |
 
 
-#### Hardware Set-up
+#### Software Set-up
 | No. | Package Name | Version |
 | --- | ------------ | ------- |
 | 1 | Transformers |  4.46.2 |

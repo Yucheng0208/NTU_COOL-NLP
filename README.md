@@ -16,8 +16,8 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 
 ## Team schedule / TODO List
 
-- [ ] 1. 11/26 20:00 (Finish Code Review ).
-- [ ] 2. 11/27 13:00 - 15:30 (Finish Keynote).
+- [X] 1. 11/26 20:00 (Finish Code Review ).
+- [ ] 2. 11/27 13:30 - 16:00 (Finish Keynote).
 > [!TIP]
 > If not done, add 11/28 morning
 - [ ] 3. 11/28 13:00 - 17:00 (Finish Video & YouTube Clip).
@@ -29,6 +29,7 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 - **Competition:** [LLM - Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
 - **Kaggle Sample Code 1:** [LLM Detect: Text Cluster [中文]](https://www.kaggle.com/code/finlay/llm-detect-text-cluster)
 - **Kaggle Sample Code 2:** [Detect AI Generated Text Using BLSTM & Distilbert](https://www.kaggle.com/code/shahbodsobhkhiz/detect-ai-generated-text-using-blstm-distilbert)
+- **Kaggle Sample Code 3:** [LLM Detect AI Generated（bert）](https://www.kaggle.com/code/sunshine888888/llm-detect-ai-generated-bert/comments)
 - **NLP Course GitHub:** [NTHU Natural Language Processing IKMLab](https://github.com/IKMLab/NTHU_Natural_Language_Processing)
 - **NTHU Course Recoder:** [NTHU Natural Language Processing](https://github.com/Yucheng0208/NTUT-CSIE-Master-Course/tree/main/113-1/NTHU-Natural-Language-Processing)
 - **NTHU NLP Repository:** [Team 35](https://github.com/wihaung/NTHU_NLP_2024_Term_Project_35)

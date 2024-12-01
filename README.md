@@ -26,6 +26,7 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 - [ ] 4. Before 11/30 (Upload Keynote.pdf & YouTube Clip).
 
 ---
+
 ##　My schedule
 
 | No. | Status | SubitInformation submission | Deadline | Note |

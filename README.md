@@ -6,13 +6,13 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 
 ## Course schedule
 
-| No. | Status | Check Point |  Deadline | SubitInformation submission | Grade ratio |
-| --- | ------ | ----------- | --------- | --------------------------- | ----------- |
-| CP0 | ✅ | Task selection | 11/17 | <ul><li>Task preference Form</ul></li> | N/A |
-| CP1 | ❎ | Presentation | 11/30 | <ul><li>Keynote.pdf</li><li>YouTube Clip (10-15min)</li></ul> | 7% |
-| CP2 | ❎ | Review | 12/08 | <ul><li>Review </li><li>Scoring </li></ul> | 3% |
-| CP3 | ❎ | Oral Presentation | 12/10 </br> 12/17 | <ul><li>Oral (10 mins)</li><li>keynote.pdf </li></ul> | 5% |
-| CP4 | ❎ | Fianl Report + score ranking | 12/27 | <ul><li> Report.docx </li><li>Code Packet </li></ul> | 12% </br> 3% |
+| No. | Check Point |  Deadline | SubitInformation submission | Grade ratio |
+| --- | ----------- | --------- | --------------------------- | ----------- |
+| CP0 | Task selection | 11/17 | <ul><li>Task preference Form</ul></li> | N/A |
+| CP1 | Presentation | 11/30 | <ul><li>Keynote.pdf</li><li>YouTube Clip (10-15min)</li></ul> | 7% |
+| CP2 | Review | 12/08 | <ul><li>Review </li><li>Scoring </li></ul> | 3% |
+| CP3 | Oral Presentation | 12/10 </br> 12/17 | <ul><li>Oral (10 mins)</li><li>keynote.pdf </li></ul> | 5% |
+| CP4 | Fianl Report + score ranking | 12/27 | <ul><li> Report.docx </li><li>Code Packet </li></ul> | 12% </br> 3% |
 
 ---
 

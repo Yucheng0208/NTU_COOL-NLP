@@ -27,7 +27,7 @@ This repository is used for the NTU COOL NLP final project. It is primarily inte
 
 ---
 
-##　My schedule
+## My schedule
 
 | No. | Status | SubitInformation submission | Deadline | Note |
 | --- | ------ | --------------------------- | -------- | ---- | 

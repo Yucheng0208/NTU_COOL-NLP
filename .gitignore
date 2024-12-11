@@ -1,0 +1,7 @@
+*.ckpt
+*.pb
+*.index
+.DS_Store
+.DS_Store?
+variables/
+cache/
